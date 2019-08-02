@@ -1,4 +1,4 @@
-![ps_logo](https://user-images.githubusercontent.com/19572673/62312158-79cccf80-b45b-11e9-8fe5-260ec1e52997.jpg)
+![homesite](https://user-images.githubusercontent.com/19572673/62336567-d6051300-b49e-11e9-9746-e7c3b2c4bedd.png)
 # Homesite Quote Conversion
 
 ## Abstract:
