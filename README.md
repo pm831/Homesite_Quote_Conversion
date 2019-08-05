@@ -15,7 +15,9 @@ Since then, we’ve continued to innovate at the pace of our customers and their
 
 We now offer Home, Renter, Life, Small Business, Condo and Flood Insurance. 
 
-A.M. Best has assigned an initial financial strength rating of A (Excellent) and an insurer credit rating of "A"​ to all Homesite Group insurance companies. https://www.linkedin.com/company/homesite-insurance/about/
+A.M. Best has assigned an initial financial strength rating of A (Excellent) and an insurer credit rating of "A"​ to all Homesite Group insurance companies. 
+https://www.linkedin.com/company/homesite-insurance/about/
+https://go.homesite.com/
 
 ###
 ## Use Case:
