@@ -37,6 +37,10 @@ Predict which customers will purchase a given quote
 ### Tool:
 Python (Jupyter Notebook)
 
+### Techniques:
+
+xgboost 
+
 ### Initial Dataset(s):
 
 train.csv
@@ -104,3 +108,5 @@ GeographicField1B ............
 GeographicField63
 
 GeographicField64
+
+
